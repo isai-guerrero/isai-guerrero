@@ -43,10 +43,6 @@ Eligibility engine across five lending programs (admin-configured, no hardcoded 
 Scores go-to-market activity into a ranked list of who a rep should call next.<br>
 `TypeScript · Supabase`
 
-**Advisory Labs** — booking + marketing site<br>
-Booking that writes straight to Google Calendar over domain-wide delegation, with transactional email on a Cloudflare edge front end.<br>
-`Astro · Cloudflare Pages · D1 · Resend`
-
 ## Toolbox
 
 **Build:** TypeScript, React, Next.js, Astro, Tailwind<br>
