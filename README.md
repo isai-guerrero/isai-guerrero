@@ -22,7 +22,7 @@ I use AI to build them faster.
 The repos below are private, so here's what each one does.
 
 **Power Concierge** — revenue platform for a $10M/yr real-estate marketing company, in production<br>
-I helped replace HubSpot and an $80k/month development agency with software the company owns. Signals, deals, tasks, billing, inbox, and attribution all read the same records; the platform returned $1.26M/yr to the business and support headcount dropped by half. The systems inside it:
+I helped replace HubSpot and an outside development agency with software the company owns. Signals, deals, tasks, billing, inbox, and attribution all read the same records, and support headcount dropped by half. The systems inside it:
 
 - **Signal chain** — a buying signal opens a deal, tasks the right rep, and starts a cadence, hands-free. Every new automation runs in shadow mode for weeks, logging what it would have done, before it's allowed to act.
 - **Automated outreach** — watches listing feeds and sends 5,000 personally branded pieces a day, each built on the prospect's own listing and branding, with suppression for anyone already mid-conversation.
